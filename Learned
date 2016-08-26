@@ -1,0 +1,1 @@
+Constraints get messed up sometimes.  They like to align themselves to buttons or other nonsense.  In that case remove everything then do constraints first on the bottom view.
